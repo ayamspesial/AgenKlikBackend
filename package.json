@@ -1,4 +1,5 @@
 {
+    "homepage": "https://ayamspesial.github.io/AgenKlikBackend/",
   "type":"module",
   "dependencies": {
     "cors": "^2.8.5",
